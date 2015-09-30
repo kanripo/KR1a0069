@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易附錄纂註
-#+DATE: 2015-09-23 09:34:50
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 21:56:20.715917
+#+PROPERTY: ID KR1a0069
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1a0069_WYG_015-1a>¶
 欽定四庫全書¶
 　易附録纂註卷十五　　　元　胡一桂　撰¶
@@ -414,4 +416,3 @@
 　¶
 　¶
 　易附録纂註卷十五¶
-
